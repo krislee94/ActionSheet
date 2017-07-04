@@ -1,6 +1,6 @@
 ###安卓和ios实现ActionSheet
 
-![](/Users/krislee/Desktop/8B2011EB-88A3-4758-91CE-490C64593D48.png)
+![android效果图](https://github.com/krislee94/ActionSheet/blob/master/AA8130F512365DC73940EE7B53A7BC9E.png)
 
 在项目里用到react-native-image-picker。但是这个控件有自己的好处，也有不方便的地方，比如在选择相册的时候，无法实现图片的多选。在项目优化的时候，我放弃了这个组件，取而代之的是**react-native-image-crop-picker。**
 这个组件可以实现打开相机和选择相册的方法。但是前提是，这样的modal需要自己去做，看了一下，网上很多都不是太好看，因此放弃了使用，自己来画。
