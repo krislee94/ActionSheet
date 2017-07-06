@@ -17,7 +17,7 @@ import {
 } from 'react-native'
 
 import Modal from 'react-native-root-modal'
-import {toDips} from '../utils/PixelRatioUtils'
+import {toDips} from './PixelRatioUtils'
 const fullWidth = Dimensions.get('window').width;
 const fullHeight = Dimensions.get('window').height;
 
